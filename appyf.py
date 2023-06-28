@@ -1,4 +1,6 @@
-import streamlit as st, pandas as pd, yfinance as yf
+import streamlit as st
+import pandas as pd
+import yfinance as yf
 import plotly.express as px
 from deep_translator import GoogleTranslator
 
